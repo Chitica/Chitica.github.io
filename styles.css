@@ -7,4 +7,7 @@ h1{
 img{
     border-radius: 50%;
     border: 2px pink solid;
+    height: 200px;
+    width: auto;
+    float: right;
 }
