@@ -43,6 +43,7 @@ li{
 }
 
 
+
 /*//////////this is the CONTACT FORM section///////////////*/
 
 .contact{
@@ -51,11 +52,10 @@ li{
     height: 800px;
     text-align: center;
     margin: 30px auto;
-    padding: 100px;
+    padding: 40px;
 }
 
 form{
-width: 60%;
 margin: auto;
 padding: 10px 20px;
 box-sizing: border-box;
@@ -235,3 +235,14 @@ color: #EE92A2;
     color: #fff; 
   
   }  
+
+
+  /*///////////////Queries//////////////*/
+  @media (min-width: 991.98px) {
+        
+    .slicknav_menu {
+        display:none;
+        background: aliceblue;
+    }
+
+  }
