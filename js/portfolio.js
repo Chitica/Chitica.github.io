@@ -1,4 +1,0 @@
-
-$(function(){
-    $('#navbarNavAltMarkup').slicknav();
-});
