@@ -88,7 +88,7 @@ p {
 
 /*/////////////////////////////FOOTER/////////////////////////////*/
 .social-section{
-  text-align: center;
+  /* text-align: center; */
 
 }
 
@@ -120,4 +120,6 @@ p {
 
 footer.page-footer {
   margin: 0;
+  background: rgb(83, 160, 176);
+
 }
